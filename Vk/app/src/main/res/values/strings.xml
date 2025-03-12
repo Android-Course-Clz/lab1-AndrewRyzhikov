@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="follow">Follow</string>
+    <string name="write_message">Write message</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="post_image_content_description">Post image</string>
+</resources>
