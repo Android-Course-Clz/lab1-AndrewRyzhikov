@@ -38,8 +38,8 @@ class ProfileFragment : Fragment() {
     private fun setupProfileHeader() {
         val userProfile = UserProfile(
             avatarUrl = "https://i.pravatar.cc/150?img=1",
-            name = "John Doe",
-            username = "@johndoe",
+            name = "Андрюха Рыжиков",
+            username = "@andruha",
             followersCount = 1500,
             followingCount = 750,
             postsCount = 120
